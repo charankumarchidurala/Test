@@ -1,3 +1,0 @@
-<groupId>com.uhg.optumrx.ms.hemi</groupId>
-			<artifactId>iris-common-data-integration-v2</artifactId>
-			<version>3.0.4-SNAPSHOT</version>
